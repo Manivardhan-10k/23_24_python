@@ -1,0 +1,65 @@
+python:
+
+It is a high level interpreted programming language
+
+high level:
+it is more human readable 
+
+
+interpreted:
+the code is executed line by line 
+
+
+
+why?
+versatality
+
+development
+ai/ml
+statistics 
+data analytics 
+buisiness appications
+games 
+apps 
+
+
+
+python is invented by "Guido van rossum"
+it was released in 1991
+
+"Monty Python and the circus"
+
+
+
+CAD - computer aided design
+
+
+how?
+syntax 
+
+
+operators
+conditionals
+datatypes
+functions
+loops
+
+
+
+
+file should be saved with extension ".py"
+
+python --version
+
+python - for interactive mode  
+
+
+
+IDE's 
+integrated development environment 
+
+pycharm 
+jupyter 
+
+
+vs-code 
