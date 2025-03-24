@@ -1,0 +1,9 @@
+sequence datatypes 
+list
+tuple
+string
+
+collection
+number 
+set
+boolean
