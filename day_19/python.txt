@@ -1,0 +1,56 @@
+random 
+
+
+
+OOPS:
+Object Oriented Programming 
+
+object -> it is the instance of a class
+
+
+
+four wheels 
+engine
+
+
+two wheels 
+one handle 
+can carry  two members
+
+
+
+
+
+Class  --->  it is  a blueprint for creating the objects  
+
+
+OOPS
+
+classes
+
+objects 
+
+inheritance:
+
+
+abstraction:
+it is the process of hiding the implementation of a method/process
+
+encapsulation:
+binding the multiple methods functions/variables into a single class
+
+polymorphism
+a method behaving diffrently in diffrent classes
+
+poly=many 
+morphism = forms
+
+
+child 
+common public 
+audiance 
+patient
+devotee
+student
+
+
